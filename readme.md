@@ -71,13 +71,14 @@ This package also provides some common filters ready to use ([more on this](http
  5.0.x    | 0.2.x
  5.1.x    | 0.3.x
  5.2.x    | 0.3.x
+ 12.x	  | 1.3.x
 
 ## Installation
 
 #### Dependencies:
 
-* [Laravel 5.x](https://github.com/laravel/laravel)
-* [Imagine 0.6.x](https://github.com/avalanche123/Imagine)
+* [Laravel 12.x](https://github.com/laravel/laravel)
+* [Imagine 1.3.x](https://github.com/avalanche123/Imagine)
 
 #### Server Requirements:
 
@@ -88,7 +89,7 @@ This package also provides some common filters ready to use ([more on this](http
 
 **1-** Require the package via Composer in your `composer.json`.
 ```
-composer require xenon/folklore-image-updated
+composer require dzonydvlp/laravel-folklore-image
 ```
 
 **2-** Run Composer to install or update the new requirement.
