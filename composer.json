@@ -1,5 +1,5 @@
 {
-    "name": "xenon/folklore-image-updated",
+    "name": "dzonydvlp/laravel-folklore-image",
     "description": "Image manipulation library for Laravel based on Imagine and inspired by Croppa for easy url based manipulation. This is a fork  of laravel folklore image",
     "keywords": ["laravel","image","imagick","gd","imagine","watermark","gmagick","thumbnail"],
     "homepage": "http://github.com/Folkloreatelier/laravel-image",
